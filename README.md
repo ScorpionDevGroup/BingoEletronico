@@ -9,7 +9,7 @@ Ou o intervalo completo Ex: 1-10000
 
 Existe tanto uma versão mobile quanto uma versão para computador
 
-Versão Mobile: 
+Versão Mobile: /BingoEletronicoMobile
 Versao Computador: 
 
 Programa Gerador de Cartelas: 
