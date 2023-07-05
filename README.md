@@ -11,6 +11,6 @@ Existe tanto uma versão mobile quanto uma versão para computador
 
 Versão Mobile: https://github.com/ScorpionDevGroup/BingoEletronicoMobile
 
-Versao Computador: 
+Versao Computador: https://github.com/ScorpionDevGroup/BingoEletronicoComputador
 
-Programa Gerador de Cartelas: 
+Programa Gerador de Cartelas: https://github.com/ScorpionDevGroup/BingoEletronicoGeradorCartelas
