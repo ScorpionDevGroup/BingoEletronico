@@ -9,7 +9,7 @@ Ou o intervalo completo Ex: 1-10000
 
 Existe tanto uma versão mobile quanto uma versão para computador
 
-Versão Mobile: (https://github.com/ScorpionDevGroup/BingoEletronicoMobile)https://github.com/ScorpionDevGroup/BingoEletronicoMobile
+Versão Mobile: https://github.com/ScorpionDevGroup/BingoEletronicoMobile
 
 Versao Computador: 
 
